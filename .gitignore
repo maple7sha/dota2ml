@@ -1,0 +1,6 @@
+_Store
+
+regression/model/*
+regression/model_sklearn/*
+venv/*
+
